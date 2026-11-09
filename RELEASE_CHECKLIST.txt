@@ -1,0 +1,40 @@
+V11 RELEASE CHECKLIST — technical notes 1.2 — 8 November 2026
+Repository packaging updated 9 November 2026.
+
+Prepared artifacts
+[x] START_HERE.md, root README, .gitignore, CHANGELOG and CONTRIBUTING.
+[x] Approved MIT and CC BY 4.0 texts, LICENSE-SCOPE.md and third-party notices.
+[x] Matching license notice in the technical-notes PDF and editable source.
+[x] Root README and common reproduction command interface.
+[x] Isolated output copies preserve delivered authoritative data.
+[x] Pinned Python requirements and citation metadata with exact authors.
+[x] Historical .05 study retained: 360 records and 64,067 holds.
+[x] New .01/.025 study supplied separately: 192 runs.
+[x] Six HJB policies have a supplied exact-array regeneration report.
+[x] Generic theorem-formula display CSV has 24 rows; explicitly non-rigorous.
+[x] Historical paired strata have 126 rows, and every partition agrees with
+    the 96-pair global lower/tied/higher counts at raw threshold 1e-10.
+[x] Historical and new precision/timing/provenance boundaries documented.
+
+Final assembly checks (must be checked against the actual final package)
+[x] Final paper and notes PDFs compile from manuscript/build.sh.
+[x] Final figure/table numbering and README artifact map match those PDFs.
+[x] Root SHA256SUMS.txt regenerated after all edits and compilation.
+[x] python3 reproduce.py --verify exits zero on the final archive.
+[x] No transient build products, local credentials, or scratch outputs included.
+[x] Third-party attribution/notices retained.
+
+Licensing approval / publication actions
+[x] Authors approved MIT for original code and usage documentation, and
+    CC BY 4.0 for notes, original figures and generated data on 9 November
+    2026. Conference-paper and third-party exceptions are stated explicitly.
+[ ] Populate https://github.com/hosein-matin/Recovery-time-safety with the
+    prepared snapshot. The repository was verified public and empty during
+    the 8 November preparation; no network publication was performed by this preparation.
+[ ] Only after an actual public release, record the real commit/tag and any
+    DOI in the release notes and citation metadata; do not invent identifiers.
+[ ] Check the public repository links and downloaded release checksum manifest.
+
+No acceptance, DOI, release tag, Git commit, ORCID, or public-upload completion
+is asserted by this checklist. ECC 2027 submission status is distinct from
+acceptance or publication. Licensing is as stated in LICENSE-SCOPE.md.

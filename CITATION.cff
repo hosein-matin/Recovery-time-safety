@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and technical notes when using these research artifacts. Original software: MIT; technical notes, original accompanying figures and generated data: CC BY 4.0. Component scope and exceptions: https://github.com/hosein-matin/Recovery-time-safety/blob/main/LICENSE-SCOPE.md"
+title: "Recovery-Time Guarantees for Safety Filtering under Sampled Actuation"
+authors:
+  - family-names: Matin
+    given-names: Hossein Nick Zinat
+    affiliation: "Laboratory of Computer Science (LIX), Ecole Polytechnique"
+  - family-names: Momnougui
+    given-names: Lipem Likwai
+    affiliation: "Laboratory of Computer Science (LIX), Ecole Polytechnique"
+version: "1.2"
+date-released: 2026-11-08
+repository-code: "https://github.com/hosein-matin/Recovery-time-safety"
+url: "https://github.com/hosein-matin/Recovery-time-safety"
+abstract: "Reproducibility snapshot for an ECC 2027 submission and technical notes version 1.2. Includes continuous-time and sampled safety-filter experiments, a new fixed-period study, frozen HJB policies, analytic and interval certificates, and editable LaTeX sources. No acceptance, publication DOI, or repository release tag is asserted."
+keywords:
+  - safety filtering
+  - sampled actuation
+  - recovery time
+  - interval arithmetic
+  - control barrier functions

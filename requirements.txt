@@ -1,0 +1,6 @@
+# Python 3.12; exact versions recorded by the supplied experiment environments.
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+pypdf==6.10.0
+mpmath==1.3.0
